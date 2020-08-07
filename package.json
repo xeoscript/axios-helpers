@@ -1,5 +1,5 @@
 {
-  "name": "axios-helpers",
+  "name": "@xeoscript/axios-helpers",
   "version": "1.0.0",
   "description": "Some helpers for Axios to use with django",
   "main": "index.js",
@@ -15,9 +15,9 @@
     "axios": "^0.19.2"
   },
   "author": "Muhammed K K",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/xeoscript/axios-helpers/issues"
   },
-  "homepage": "https://github.com/xeoscript/axios-helpers#readme"
+  "homepage": "https://github.com/xeoscript/axios-helpers#readme",
 }
